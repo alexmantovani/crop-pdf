@@ -1,4 +1,4 @@
-# PDF MERGER AND CROPPER
+# PDF MERGE AND CROP
 
 cropper.py is a free and open-source python utility capable of crop and merge PDF files.
 
