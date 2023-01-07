@@ -18,5 +18,5 @@ examples:
 
 ```
 $ python3 cropper.py -f part_1.pdf part_2.pdf -c 50 -o merged.pdf
-$ python3 cropper.py -f part_1.pdf -o merged.pdf --no_swift_scan
+$ python3 cropper.py -f part_1.pdf -o result.pdf --no_swift_scan
 ```
